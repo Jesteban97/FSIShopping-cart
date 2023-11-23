@@ -11,7 +11,7 @@ const Policies = () => {
             <div className="policy-section">
               <h2>Política de Tratamiento de Datos</h2>
               <p>
-                En StreetWearShop, nos comprometemos a proteger la privacidad de
+                En FSIStore, nos comprometemos a proteger la privacidad de
                 nuestros clientes. Toda la información proporcionada se
                 utilizará únicamente con el propósito de procesar pedidos y
                 mejorar la experiencia de compra. No compartiremos ni venderemos
